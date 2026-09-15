@@ -1,4 +1,4 @@
-# Electronic-Circuits--Full-Wave-Bridge-Transformer-Rectifier
+# Electronic-Circuits--Full-Wave-Centre-tapped-Transformer-Rectifier
 
 ## AIM:
 To implement a full wave centre tapped rectifier with and without filter and to measure and compare the output and peak inverse voltages.
