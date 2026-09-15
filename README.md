@@ -3,7 +3,8 @@
 ## AIM:
 To implement a full wave centre tapped rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
-<img width="1599" height="1590" alt="image" src="https://github.com/user-attachments/assets/afa457fa-97c9-4b69-8fd1-673b7589ce15" />
+<img width="1600" height="1315" alt="WhatsApp Image 2026-09-13 at 20 32 44" src="https://github.com/user-attachments/assets/98387d44-932b-4d5b-b768-34610e199c32" />
+
 
 
 ## PROCEDURE:
@@ -16,16 +17,18 @@ To implement a full wave centre tapped rectifier with and without filter and to 
 4.	A capacitance filter is connected as shown in the following circuit diagram and the wave forms are obtained the same way as without filter and readings are obtained the same way from the CRO.
 	
 ## TABULATION:
+<img width="1600" height="911" alt="WhatsApp Image 2026-09-13 at 20 33 00" src="https://github.com/user-attachments/assets/b90f0ebf-d55a-47c5-8e5b-67499d56e694" />
 
-<img width="1600" height="868" alt="image" src="https://github.com/user-attachments/assets/49427fc9-566e-47a7-9af1-b651f67f77dd" />
 
 ## OUTPUT:
-<img width="1080" height="1412" alt="image" src="https://github.com/user-attachments/assets/a2c802db-9646-4167-93e8-c70bd3b00e11" />
-<img width="1345" height="1600" alt="image" src="https://github.com/user-attachments/assets/81fc57ac-6eba-41cb-b1ff-75f3ceaff0c3" />
+
+<img width="1012" height="1387" alt="WhatsApp Image 2026-09-13 at 20 33 33" src="https://github.com/user-attachments/assets/3cd4e892-b19a-41e1-a56d-1641ae68fe78" />
+<img width="1297" height="1600" alt="WhatsApp Image 2026-09-13 at 20 33 58" src="https://github.com/user-attachments/assets/68d39740-2109-4558-9f12-577aa9fd6055" />
+
 
 
 
 ## RESULT:
+<img width="1600" height="906" alt="WhatsApp Image 2026-09-13 at 20 34 17" src="https://github.com/user-attachments/assets/e6e92dad-1d94-4cd7-8ef8-35d72e03c0b7" />
 
-<img width="1600" height="717" alt="image" src="https://github.com/user-attachments/assets/d5a55dfd-055e-468a-bb94-fa817aaf5bc5" />
 
